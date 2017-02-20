@@ -1,0 +1,9 @@
+C:\Code\C#\FileNinja\FileNinja\bin\Debug\FileNinja.exe.config
+C:\Code\C#\FileNinja\FileNinja\bin\Debug\FileNinja.exe
+C:\Code\C#\FileNinja\FileNinja\bin\Debug\FileNinja.pdb
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.csprojResolveAssemblyReference.cache
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.Properties.Resources.resources
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.csproj.GenerateResource.Cache
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.exe
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.pdb
+C:\Code\C#\FileNinja\FileNinja\obj\Debug\FileNinja.FileNinja.resources
